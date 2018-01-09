@@ -1,4 +1,3 @@
-heroku buildpacks:set https://github.com/heroku/heroku-buildpack-nodejs#v114 -a rb-base
 {
   "name": "rb-base",
   "version": "3.5.0",
